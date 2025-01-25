@@ -39,7 +39,7 @@ Plant Detection/
 
 - Python 3.8 or later
 - A virtual environment (optional but recommended)
-- Required libraries listed in `requirements.txt`
+- Required libraries listed in `requirement.txt`
 
 Install dependencies using:
 ```bash
