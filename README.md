@@ -110,9 +110,6 @@ Access the application at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 2. **Dependency Errors**:
    - Ensure all required libraries are installed via `requirements.txt`.
 
-3. **Google Drive Access**:
-   - Ensure the file link is publicly accessible if using Google Drive to host the model.
-
 ---
 
 
