@@ -26,7 +26,7 @@ Plant Detection/
 ├── templates/
 │   └── index.html            # HTML template for the web interface
 ├── detection.py              # Flask app handling uploads and predictions
-├── training.ipynb            # Jupyter Notebook for training the model
+├── model_training.ipynb            # Jupyter Notebook for training the model
 ├── model/
 │   └── my_model_2.keras      # Trained model file
 ├── requirements.txt          # Python dependencies
