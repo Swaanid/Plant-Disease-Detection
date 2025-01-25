@@ -20,8 +20,8 @@ This project is a Flask-based web application designed to detect plant diseases 
 ```
 Plant Detection/
 ├── static/
-│   ├── css/
-│   │   └── style.css         # CSS for styling the web interface
+│   ├── styles.css
+│   │                         # CSS for styling the web interface
 │   └── uploads/              # Folder for storing uploaded images
 ├── templates/
 │   └── index.html            # HTML template for the web interface
@@ -43,7 +43,7 @@ Plant Detection/
 
 Install dependencies using:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ---
