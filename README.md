@@ -20,13 +20,12 @@ This project is a Flask-based web application designed to detect plant diseases 
 ```
 Plant Detection/
 ├── static/
-│   ├── styles.css
-│   │                         # CSS for styling the web interface
+│   ├── styles.css            # CSS for styling the web interface
 │   └── uploads/              # Folder for storing uploaded images
 ├── templates/
 │   └── index.html            # HTML template for the web interface
 ├── detection.py              # Flask app handling uploads and predictions
-├── model_training.ipynb            # Jupyter Notebook for training the model
+├── model_training.ipynb      # Jupyter Notebook for training the model
 ├── model/
 │   └── my_model_2.keras      # Trained model file
 ├── requirements.txt          # Python dependencies
