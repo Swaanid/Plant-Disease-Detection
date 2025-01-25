@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Swaanid/Plant-Disease-Detection/tree/6373ddaad4619c2832901ab5cf6557cada135468
+git clone https://github.com/Swaanid/Plant-Disease-Detection/tree/6373ddaad4619c2832901ab5cf6557cada135468.git
 cd Plant-Detection
 ```
 
