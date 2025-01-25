@@ -115,10 +115,5 @@ Access the application at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Let me know if you want any further customization!
