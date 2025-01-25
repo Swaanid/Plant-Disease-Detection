@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: plant-disease-detection
+    env: python
+    plan: free
+    buildCommand: pip install -r requirement.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: MODEL_PATH
+        value: C:\Users\swani\Downloads\Plant Detection\my_model_2.keras
+        
