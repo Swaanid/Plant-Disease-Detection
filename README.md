@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/Swaanid/Plant-Disease-Detection.git
-cd Plant-Detection
+cd Plant-Detection-Detection
 ```
 
 ### 2. Download the Model
